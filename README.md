@@ -44,6 +44,7 @@ Discover the models currently trending on [Hugging Face](https://huggingface.co/
 I'm a Master's student in **Machine Learning & Big Data** with interests spanning 
 
 - Artificial Intelligence & Machine Learning
+- Generative AI & Generative Models
 - Computer Vision & Deep Learning
 - Meteorology & Atmospheric Sciences
 - Scientific Computing & Data Analysis
