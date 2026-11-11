@@ -2,7 +2,7 @@
 
 # Hi, I'm Dario Caramiello 👋
 
-### MSc Computer Science Student · AI & Computer Vision · Software Engineering
+### MSc Computer Science Student · AI 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Exploring+AI+and+Computer+Vision;Building+software+and+reliable+systems;Learning%2C+experimenting%2C+improving)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About me
 
-I'm a Master's student in **Computer Science** with interests spanning **Artificial Intelligence, Computer Vision, High-Performance Computing, and Software Engineering**.
+I'm a Master's student in **Computer Science** with interests spanning **Artificial Intelligence, Computer Vision, High-Performance Computing, and Cyber Security**.
 
 I enjoy exploring how research ideas become working systems: from machine learning experiments and numerical computing to containerized applications and Linux infrastructure.
 
