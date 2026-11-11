@@ -68,3 +68,5 @@ I enjoy exploring how research ideas become working systems: from machine learni
 <div align="center">
   <i>Curiosity, engineering, and continuous learning.</i>
 </div>
+
+... WORK IN PROGRESS
