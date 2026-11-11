@@ -109,8 +109,9 @@ Contributed to the development and scientific validation of SmokEye, a framework
 
 **Research Highlights:**
 - Conducted research on atmospheric dispersion model validation.
-- Co-authored and presented a scientific paper at **IEEE eScience 2026**.
+- First author and presenter of a scientific paper at **IEEE eScience 2026**.
 - 🏆 **Best Paper Award — DAFNE Workshop, IEEE eScience 2026.**
+
 
 **Technologies:** `Python` `CALPUFF` `Sentinel-5P` `Remote Sensing` `Geospatial Analysis`
 
