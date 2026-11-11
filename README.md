@@ -2,7 +2,7 @@
 
 # Hi, I'm Dario Caramiello 👋
 
-### MSc Computer Science Student · AI 
+### ### MSc Student in Machine Learning & Big Data | AI & Software Engineering
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Exploring+AI+and+Computer+Vision;Building+software+and+reliable+systems;Learning%2C+experimenting%2C+improving)](https://git.io/typing-svg)
 
@@ -14,13 +14,19 @@
 
 ### 👨‍💻 About me
 
-I'm a Master's student in **Computer Science** with interests spanning **Artificial Intelligence, Computer Vision, High-Performance Computing, and Cyber Security**.
+I'm a Master's student in **Machine Learning & Big Data** with interests spanning 
+
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Deep Learning
+- Meteorology & Atmospheric Sciences
+- Scientific Computing & Data Analysis
+- High Performance Computing
+- Cyber Security
 
 I enjoy exploring how research ideas become working systems: from machine learning experiments and numerical computing to containerized applications and Linux infrastructure.
 
-- 🔭 Interested in **deep learning, multi-view vision, and applied AI**
 - ⚙️ Working with **Python, C/C++, Linux, and Docker**
-- 🧠 Exploring **machine learning, computer vision, and scientific computing**
+- 🧠 Exploring **machine learning, high performance computing and scientific computing**
 - 📍 Based in Italy
 
 ### 🛠️ Languages & tools
@@ -48,6 +54,16 @@ I enjoy exploring how research ideas become working systems: from machine learni
 | [Google Foobar Challenge](https://github.com/DarioCaramiello/Google-Foobar-Level2-pt2) | Python solution to a Level 2 Google Foobar programming challenge. | Algorithms · Python |
 | [YouTube Downloader](https://github.com/DarioCaramiello/YouTube-Downloader) | Android application project written in Kotlin. | Android · Kotlin |
 
+## 🚀 Projects & Collaborations - Work in progress
+
+Here are some projects I've developed or contributed 
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Project Name](https://github.com/...) | Brief description of the project and my contribution. | Python, PyTorch |
+| [Project Name](https://github.com/...) | Brief description of the project and my contribution. | Python, OpenCV |
+
+
 ### 📊 GitHub activity
 
 <div align="center">
@@ -69,4 +85,4 @@ I enjoy exploring how research ideas become working systems: from machine learni
   <i>Curiosity, engineering, and continuous learning.</i>
 </div>
 
-... WORK IN PROGRESS
+
