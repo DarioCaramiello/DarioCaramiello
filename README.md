@@ -2,11 +2,15 @@
 
 # Hi, I'm Dario Caramiello 👋
 
-### MSc Student in Machine Learning & Big Data | AI & Software Engineering
+### MSc Student in Machine Learning & Big Data
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Exploring+AI+and+Computer+Vision;Building+software+and+reliable+systems;Learning%2C+experimenting%2C+improving)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=DarioCaramiello&style=flat-square&color=0969da" alt="Profile views" />
+
+
+![GitHub Stats](https://ghstats.dev/api/card?username=DarioCaramiello&theme=tokyonight)
+
 
 </div>
 
