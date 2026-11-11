@@ -7,7 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Exploring+AI+and+Computer+Vision;Building+software+and+reliable+systems;Learning%2C+experimenting%2C+improving)](https://git.io/typing-svg)
 
 
-![GitHub Stats](https://ghstats.dev/api/card?username=DarioCaramiello&theme=tokyonight)
+## 🤗 Trending AI Models
+
+Discover the models currently trending on [Hugging Face](https://huggingface.co/models?sort=trending).
+
+<!-- TRENDING-AI-MODELS:START -->
+*Model rankings will appear after the first workflow run.*
+<!-- TRENDING-AI-MODELS:END -->
+
 
 </div>
 
