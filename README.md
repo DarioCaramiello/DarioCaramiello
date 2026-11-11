@@ -12,6 +12,17 @@
 
 ---
 
+
+---
+
+> *"This control you think you have, it's an illusion."*
+>
+> *"Are you a one or a zero?"*
+>
+
+---
+
+
 ### 👨‍💻 About me
 
 I'm a Master's student in **Machine Learning & Big Data** with interests spanning 
