@@ -12,7 +12,15 @@
 Discover the models currently trending on [Hugging Face](https://huggingface.co/models?sort=trending).
 
 <!-- TRENDING-AI-MODELS:START -->
-*Model rankings will appear after the first workflow run.*
+| # | Model | Task | Downloads (30d) | Likes |
+|:--:|---|---|---:|---:|
+| 1 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Text Generation | 16,693 | 2,949 |
+| 2 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Text To Image | 142,989 | 695 |
+| 3 | [speridlabs/idol](https://huggingface.co/speridlabs/idol) | Image To 3D | 28,250 | 2,143 |
+| 4 | [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | Text Generation | 4,023 | 433 |
+| 5 | [moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | Image Text To Text | 33,617 | 1,934 |
+
+<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-11 UTC. Downloads reflect the Hub API reporting window.</sub>
 <!-- TRENDING-AI-MODELS:END -->
 
 
