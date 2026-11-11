@@ -6,11 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Exploring+AI+and+Computer+Vision;Building+software+and+reliable+systems;Learning%2C+experimenting%2C+improving)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=DarioCaramiello&style=flat-square&color=0969da" alt="Profile views" />
-
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=DarioCaramiello&theme=tokyonight)
-
 
 </div>
 
@@ -70,7 +67,7 @@ I enjoy exploring how research ideas become working systems: from machine learni
 | [YouTube Downloader](https://github.com/DarioCaramiello/YouTube-Downloader) | Android application project written in Kotlin. | Android · Kotlin |
 
 
-## 🚀 Projects & Collaborations - Work in progress
+## 🚀 Projects & Collaborations
 
 ### 🌦️ meteo@uniparthenope API
 **University of Naples Parthenope — Ongoing Maintenance & Development**
@@ -104,12 +101,20 @@ Designed and developed SmokeTracer from scratch, a scientific software platform 
 
 🔗 [View Repository](https://github.com/CCMMMA/SmokeTracer)
 
-Here are some projects I've developed or contributed 
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Project Name](https://github.com/...) | Brief description of the project and my contribution. | Python, PyTorch |
-| [Project Name](https://github.com/...) | Brief description of the project and my contribution. | Python, OpenCV |
+### 🔬 SmokEye — Atmospheric Pollution Research
+**Research Contributor & Paper Author**
+
+Contributed to the development and scientific validation of SmokEye, a framework for atmospheric pollution analysis combining dispersion modeling, satellite observations, and meteorological data.
+
+**Research Highlights:**
+- Conducted research on atmospheric dispersion model validation.
+- Co-authored and presented a scientific paper at **IEEE eScience 2026**.
+- 🏆 **Best Paper Award — DAFNE Workshop, IEEE eScience 2026.**
+
+**Technologies:** `Python` `CALPUFF` `Sentinel-5P` `Remote Sensing` `Geospatial Analysis`
+
+🔗 [View Repository](https://github.com/CCMMMA/SmokEye)
 
 
 ### 📊 GitHub activity
