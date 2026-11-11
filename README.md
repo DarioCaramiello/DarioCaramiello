@@ -47,7 +47,6 @@ I enjoy exploring how research ideas become working systems: from machine learni
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,11 +60,45 @@ I enjoy exploring how research ideas become working systems: from machine learni
 
 | Project | Description | Focus |
 | :--- | :--- | :--- |
+| [Kindle-RSS](https://github.com/DarioCaramiello/Kindle-RSS) | Automated RSS-to-EPUB newspaper generator with scheduled delivery to Amazon Kindle via SMTP. | Python, RSS, EPUB, SMTP, Automation |
 | [CUDA vs OpenACC](https://github.com/DarioCaramiello/Comparison-Cuda-C-vs-OpenAcc-Fortran-) | Comparison of CUDA C and OpenACC Fortran implementations of a Sobel-filter 2D convolution. | HPC · GPU Computing |
 | [Google Foobar Challenge](https://github.com/DarioCaramiello/Google-Foobar-Level2-pt2) | Python solution to a Level 2 Google Foobar programming challenge. | Algorithms · Python |
 | [YouTube Downloader](https://github.com/DarioCaramiello/YouTube-Downloader) | Android application project written in Kotlin. | Android · Kotlin |
 
+
 ## 🚀 Projects & Collaborations - Work in progress
+
+### 🌦️ meteo@uniparthenope API
+**University of Naples Parthenope — Ongoing Maintenance & Development**
+
+Currently responsible for maintaining and improving the meteorological API infrastructure.
+
+**Key areas of contribution:**
+- Multi-layer caching with Memcached and disk-based storage.
+- API performance optimization and reduced data processing overhead.
+- Backend maintenance, troubleshooting, and improvements.
+- Support for reliable delivery of meteorological data.
+
+🔗 [View Repository](https://github.com/CCMMMA/it.uniparthenope.meteo.api)
+
+### 🌫️ SmokeTracer
+**Creator & Lead Developer | Ongoing Development & Maintenance**
+
+**Project developed for a service supporting the Campania Region, Italy.**
+
+Designed and developed SmokeTracer from scratch, a scientific software platform for atmospheric dispersion analysis and geospatial data processing. Currently responsible for its maintenance, technical evolution, and operational reliability.
+
+**Key Contributions:**
+- Designed and implemented the software architecture and processing workflows.
+- Developed geospatial analysis algorithms using PostgreSQL/PostGIS, including point-in-polygon and spatial intersection queries.
+- Implemented spatial data management and database integration.
+- Integrated scientific job management and execution workflows using Slurm.
+- Developed and maintained containerized infrastructure with Docker Compose.
+- Provided ongoing maintenance, troubleshooting, and system improvements.
+
+**Technologies:** `Python` `PostgreSQL` `PostGIS` `Docker` `Slurm` `Geospatial Analysis`
+
+🔗 [View Repository](https://github.com/CCMMMA/SmokeTracer)
 
 Here are some projects I've developed or contributed 
 
