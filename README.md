@@ -14,13 +14,13 @@ Discover the models currently trending on [Hugging Face](https://huggingface.co/
 <!-- TRENDING-AI-MODELS:START -->
 | # | Model | Task | Downloads (30d) | Likes |
 |:--:|---|---|---:|---:|
-| 1 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Text Generation | 18,933 | 4,648 |
-| 2 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Text To Image | 306,718 | 830 |
-| 3 | [speridlabs/idol](https://huggingface.co/speridlabs/idol) | Image To 3D | 29,904 | 2,202 |
-| 4 | [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | Text Generation | 4,669 | 467 |
-| 5 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | Image To Video | 2,782,513 | 11,589 |
+| 1 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Text Generation | 21,586 | 4,886 |
+| 2 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Text To Image | 437,039 | 967 |
+| 3 | [NousResearch/Arete-27B](https://huggingface.co/NousResearch/Arete-27B) | Text Generation | 5,545 | 521 |
+| 4 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | Image To Video | 2,778,909 | 11,711 |
+| 5 | [speridlabs/idol](https://huggingface.co/speridlabs/idol) | Image To 3D | 31,367 | 2,263 |
 
-<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-12 UTC. Downloads reflect the Hub API reporting window.</sub>
+<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-13 UTC. Downloads reflect the Hub API reporting window.</sub>
 <!-- TRENDING-AI-MODELS:END -->
 
 
