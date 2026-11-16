@@ -14,13 +14,13 @@ Discover the models currently trending on [Hugging Face](https://huggingface.co/
 <!-- TRENDING-AI-MODELS:START -->
 | # | Model | Task | Downloads (30d) | Likes |
 |:--:|---|---|---:|---:|
-| 1 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Text Generation | 27,037 | 7,468 |
-| 2 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Text To Image | 571,067 | 1,154 |
-| 3 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | Image Text To Text | 6,547,772 | 20,069 |
-| 4 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | Image To Video | 2,754,355 | 12,001 |
-| 5 | [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | Text To Image | 1,973,388 | 404 |
+| 1 | [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Text Generation | 29,567 | 8,102 |
+| 2 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Text To Image | 609,130 | 1,278 |
+| 3 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | Image Text To Text | 6,763,402 | 20,219 |
+| 4 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | Image To Video | 2,789,021 | 12,177 |
+| 5 | [Comfy-Org/MiniMax-H3-Image](https://huggingface.co/Comfy-Org/MiniMax-H3-Image) | Text To Image | 2,294,065 | 458 |
 
-<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-15 UTC. Downloads reflect the Hub API reporting window.</sub>
+<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-16 UTC. Downloads reflect the Hub API reporting window.</sub>
 <!-- TRENDING-AI-MODELS:END -->
 
 
