@@ -14,13 +14,13 @@ Discover the models currently trending on [Hugging Face](https://huggingface.co/
 <!-- TRENDING-AI-MODELS:START -->
 | # | Model | Task | Downloads (30d) | Likes |
 |:--:|---|---|---:|---:|
-| 1 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Text To Image | 727,110 | 1,404 |
-| 2 | [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | Image Text To Text | 6,942,530 | 20,377 |
-| 3 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | Image To Video | 2,828,071 | 12,360 |
-| 4 | [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | Audio To Audio | 4,445 | 478 |
-| 5 | [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) | Image Text To Text | 18,359 | 434 |
+| 1 | [higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B) | Audio To Audio | 5,314 | 624 |
+| 2 | [Lightricks/LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5) | Image To Video | 2,871,190 | 12,510 |
+| 3 | [thinkingmachines/Inkling-2-Small](https://huggingface.co/thinkingmachines/Inkling-2-Small) | Image Text To Text | 30,082 | 483 |
+| 4 | [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) | Image Text To Text | 377 | 341 |
+| 5 | [MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Text To Image | 759,661 | 1,571 |
 
-<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-17 UTC. Downloads reflect the Hub API reporting window.</sub>
+<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-18 UTC. Downloads reflect the Hub API reporting window.</sub>
 <!-- TRENDING-AI-MODELS:END -->
 
 
