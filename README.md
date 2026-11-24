@@ -14,13 +14,13 @@ Discover the models currently trending on [Hugging Face](https://huggingface.co/
 <!-- TRENDING-AI-MODELS:START -->
 | # | Model | Task | Downloads (30d) | Likes |
 |:--:|---|---|---:|---:|
-| 1 | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | Image Text To Text | 41,888 | 5,409 |
-| 2 | [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | Image Text To Text | 1,292,888 | 1,064 |
-| 3 | [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | Audio To Audio | 0 | 715 |
-| 4 | [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | Image Text To Text | 329,497 | 620 |
-| 5 | [harness-hub/Qwen3.8-27B-pi-adapted](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) | Image Text To Text | 3,132 | 1,026 |
+| 1 | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | Image Text To Text | 69,042 | 5,720 |
+| 2 | [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | Image Text To Text | 1,913,407 | 1,222 |
+| 3 | [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | Audio To Audio | 12,733 | 792 |
+| 4 | [tencent/Hy4-flash](https://huggingface.co/tencent/Hy4-flash) | Image Text To Text | 9,167 | 670 |
+| 5 | [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | Image Text To Text | 573,775 | 720 |
 
-<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-23 UTC. Downloads reflect the Hub API reporting window.</sub>
+<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-24 UTC. Downloads reflect the Hub API reporting window.</sub>
 <!-- TRENDING-AI-MODELS:END -->
 
 
