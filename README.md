@@ -14,13 +14,13 @@ Discover the models currently trending on [Hugging Face](https://huggingface.co/
 <!-- TRENDING-AI-MODELS:START -->
 | # | Model | Task | Downloads (30d) | Likes |
 |:--:|---|---|---:|---:|
-| 1 | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | Image Text To Text | 96,527 | 6,186 |
-| 2 | [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | Image Text To Text | 2,445,633 | 1,441 |
-| 3 | [inworld/voice-isolator](https://huggingface.co/inworld/voice-isolator) | Audio To Audio | 15,244 | 937 |
-| 4 | [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | Image Text To Text | 762,491 | 890 |
-| 5 | [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | — | 189,735 | 1,183 |
+| 1 | [thinkingmachines/Inkling-2-Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | Image Text To Text | 155,741 | 6,408 |
+| 2 | [unsloth/Inkling-2-Mini-GGUF](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) | Image Text To Text | 3,302,340 | 1,560 |
+| 3 | [SulphurAI/Sulphur-3](https://huggingface.co/SulphurAI/Sulphur-3) | — | 539,421 | 1,328 |
+| 4 | [AtomicChat/Inkling-2-Mini-Uncensored-GGUF](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) | Image Text To Text | 1,059,763 | 992 |
+| 5 | [prism-ml/Ternary-Bonsai-2.5-27B-GGUF](https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF) | Text Generation | 382,546 | 596 |
 
-<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-26 UTC. Downloads reflect the Hub API reporting window.</sub>
+<sub>Source: [Hugging Face Trending Models](https://huggingface.co/models?sort=trending) · Updated: 2026-11-27 UTC. Downloads reflect the Hub API reporting window.</sub>
 <!-- TRENDING-AI-MODELS:END -->
 
 
